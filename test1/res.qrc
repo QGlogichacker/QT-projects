@@ -1,0 +1,7 @@
+<RCC>
+    <qresource lang="china" prefix="/images">
+        <file alias="bug">C:/Users/Administrator/Pictures/bug.jpg</file>
+        <file alias="file-open">images/file-open.png</file>
+        <file alias="file-save">images/file-save.png</file>
+    </qresource>
+</RCC>
